@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I want to learn everything.**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <h3 align="left">Front-end</h3>
 <p align="left">
