@@ -2,7 +2,7 @@
 <h3 align="center">Student at SoftUni university. I enjoy learning languages and frameworks. I also enjoy, UI, UX and design in general.</h3>
 
 
-- 🌱 I’m currently learning **JS Back-End**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dimo-Hristov?tab=repositories](https://github.com/Dimo-Hristov?tab=repositories)
 
