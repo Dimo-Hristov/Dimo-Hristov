@@ -18,13 +18,13 @@
 
 <h3 align="left">Back-end</h3>
 <p align="left">  
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" border="1px solid ffffff"/> </a> </p>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="80" height="40"/> </a> </p>
 </p>
 
 <h3 align="left">Database</h3>
 <p align="left">  
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" alt="mongodb" width="60" height="40"/>
 </div>
 
 </a>
