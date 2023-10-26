@@ -24,10 +24,7 @@
 <h3 align="left">Database</h3>
 <p align="left">  
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<div style="display: inline-block; border: 1px solid white; padding: 5px;">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </div>
 
 </a>
