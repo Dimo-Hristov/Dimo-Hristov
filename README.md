@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dimo-Hristov?tab=repositories](https://github.com/Dimo-Hristov?tab=repositories)
 
+- 👨‍💻 All my certificates and exams score are available <a href="https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates"> here </a>
+
 - 📫 How to reach me **dimo_xristov@protonmail.com**
 
 <hr>
