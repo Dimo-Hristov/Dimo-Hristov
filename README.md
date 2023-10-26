@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Dimo Hristov</h1>
-<h3 align="center">Student at SoftUni university. I enjoy learning languages and frameworks. I also enjoy, ui, ux and design in general.</h3>
+<h3 align="center">Student at SoftUni university. I enjoy learning languages and frameworks. I also enjoy, UI, UX and design in general.</h3>
 
 
 - 🌱 I’m currently learning **JS Back-End**
