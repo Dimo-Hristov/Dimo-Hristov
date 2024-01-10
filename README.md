@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available  <a href="[https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates](https://github.com/Dimo-Hristov?tab=repositories)"> here </a>
 
-- 👨‍💻 All my certificates and exams score are available <a href="https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates"> here </a>rr
+- 👨‍💻 All my certificates and exams score are available <a href="https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates"> here </a>
 
 - 📫 How to reach me **dimo_xristov@protonmail.com**
 
