@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Dimo Hristov</h1>
-<h3 align="center">Student at SoftUni university. I enjoy learning languages and frameworks. I also enjoy, UI, UX and design in general.</h3>
+<h3 align="center">Junior web developer. I enjoy learning languages and frameworks. I also enjoy, UI, UX and design in general.</h3>
 
 
 - 🌱 I’m currently working as intern at MotorSport events app.  Personal projects are boring, that why i didnt make any complicated project. I prefer to work in a team. 
