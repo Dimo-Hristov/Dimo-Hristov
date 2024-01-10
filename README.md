@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently working as intern at MotorSport events app.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dimo-Hristov?tab=repositories](https://github.com/Dimo-Hristov?tab=repositories)
+- 👨‍💻 All of my projects are available  <a href="[https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates](https://github.com/Dimo-Hristov?tab=repositories)"> here </a>
 
-- 👨‍💻 All my certificates and exams score are available <a href="https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates"> here </a>
+- 👨‍💻 All my certificates and exams score are available <a href="https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates"> here </a>rr
 
 - 📫 How to reach me **dimo_xristov@protonmail.com**
 
