@@ -21,7 +21,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsOsNXhIBBcz-zaotBBPSRSzgxQ38MZanBOg&usqp=CAU)](https://ionicframework.com/img/angular/logo@2x.png)" alt="ionic" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsOsNXhIBBcz-zaotBBPSRSzgxQ38MZanBOg&usqp=CAU)](https://ionicframework.com/img/angular/logo@2x.png" alt="ionic" width="40" height="40"/>
 </p>
 
 <h3 align="left">Back-end</h3>
