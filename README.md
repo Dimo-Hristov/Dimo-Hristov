@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Dimo Hristov</h1>
-<h3 align="center">Junior web developer. I enjoy learning languages and frameworks. I also enjoy, UI, UX and design in general.</h3>
+<h3 align="center">As a Full Stack Developer with 2 years of experience in coding, I've had the opportunity to dive deep into both front-end and back-end technologies, mastering language like JavaScript, HTML, and CSS. MEAN and MERN also.</h3>
 
 
 - 🌱 I’m currently working as intern at MotorSport events app.  Personal projects are boring, that why i didnt make any complicated project. I prefer to work in a team. 
@@ -20,8 +20,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsOsNXhIBBcz-zaotBBPSRSzgxQ38MZanBOg&usqp=CAU)" alt="react" width="40" height="40"/>
 </p>
 
 <h3 align="left">Back-end</h3>
