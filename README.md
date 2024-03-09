@@ -1,14 +1,14 @@
-<h1 align="center">Hi , I'm Dimo Hristov</h1>
-<h3 align="center">As a Full Stack Developer with 2 years of experience in coding, I've had the opportunity to dive deep into both front-end and back-end technologies, mastering language like JavaScript, HTML, and CSS. MEAN and MERN also.</h3>
+# Hi there, I'm Dimo Hristov! 👋
 
+I'm a Full Stack Developer with 2 years of experience in coding. My expertise lies in both front-end and back-end technologies, with a strong command over languages like JavaScript, HTML, and CSS. I'm proficient in MEAN and MERN stacks as well.
 
-- 🌱 I’m currently working as intern at MotorSport events app.  Personal projects are boring, that why i didnt make any complicated project. I prefer to work in a team. 
+## About Me
+- 🌱 Currently, I'm interning at MotorSport events app, where I'm honing my skills in a collaborative team environment.
+- 👨‍💻 You can find all my projects on [GitHub](https://github.com/Dimo-Hristov?tab=repositories). While I haven't ventured into complex personal projects yet, I thrive when working in a team setting.
+- 📚 Explore my certificates and exam scores [here](https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates).
+- 📫 Feel free to reach out to me at [dimo_xristov@protonmail.com](mailto:dimo_xristov@protonmail.com) for any inquiries or collaborations.
 
-- 👨‍💻 All of my projects are available  <a href="https://github.com/Dimo-Hristov?tab=repositories"> here </a>
-
-- 👨‍💻 All my certificates and exams score are available <a href="https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates"> here </a>
-
-- 📫 How to reach me **dimo_xristov@protonmail.com**
+Let's connect and build something amazing together!
 
 <hr>
 <h3 align="left">Languages and Tools...</h3>
