@@ -6,9 +6,11 @@ I'm a Full Stack Developer with 2 years of experience in coding. My expertise li
 - 🌱 Currently, I'm interning at MotorSport events app, where I'm honing my skills in a collaborative team environment.
 - 👨‍💻 You can find all my projects on [GitHub](https://github.com/Dimo-Hristov?tab=repositories). While I haven't ventured into complex personal projects yet, I thrive when working in a team setting.
 - 📚 Explore my certificates and exam scores [here](https://github.com/Dimo-Hristov/Education-at-SoftUni/tree/main/Certificates).
-- 📫 Feel free to reach out to me at [dimo_xristov@protonmail.com](mailto:dimo_xristov@protonmail.com) for any inquiries or collaborations.
+- 📫 Feel free to reach out to me at [contact@dimosphere.com](mailto:contact@dimosphere.com) for any inquiries or collaborations.
 
 Let's connect and build something amazing together!
+
+Read more about me at: <a href="www.dimosphere.com">www.dimosphere.com<a/>
 
 <hr>
 <h3 align="left">Languages and Tools...</h3>
